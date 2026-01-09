@@ -16,9 +16,10 @@ MeetUp is an intelligent meeting management platform designed to automate meetin
 
 ## 🛠️ Tech Stack
 
-Frontend
+### Frontend
 <ul>
     <li>React.js</li>
     <li>Tailwind CSS</li>
     <li>HTML5, CSS3, JavaScript</li>
 </ul>
+
