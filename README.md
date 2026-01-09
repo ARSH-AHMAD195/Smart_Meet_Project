@@ -23,3 +23,45 @@ MeetUp is an intelligent meeting management platform designed to automate meetin
     <li>HTML5, CSS3, JavaScript</li>
 </ul>
 
+### Backend
+<ul>
+    <li>Python</li>
+    <li>FastAPI</li>
+    <li>SQLAlchemy</li>
+</ul>
+
+### Database
+<ul>
+    <li>PostgreSQL / SQLite</li>
+</ul>
+
+### AI & NLP
+<ul>
+    <li>LLM integration (Gemini / similar)</li>
+    <li>NLP-based summarization and task extraction</li>
+</ul>
+
+### Tools & Others
+<ul>
+    <li>Git & GitHub</li>
+    <li>JWT Authentication</li>
+    <li>RESTful APIs</li>
+</ul>
+
+## ⚙️ Installation & Setup
+
+### Prerequisites
+<ul>
+    <li>Python 3.9+</li>
+    <li>Node.js 18+</li>
+    <li>Git</li>
+</ul>
+
+### Backend Setup
+```
+git clone https://github.com/ARSH-AHMAD195/Smart_Meet_Project.git
+cd meetup/backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
