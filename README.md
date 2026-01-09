@@ -2,7 +2,7 @@
 
 MeetUp is an intelligent meeting management platform designed to automate meeting documentation and improve team productivity. It leverages AI and NLP to generate meeting summaries, extract action items, and suggest smart agendas for future meetings.
 
-![MeetUp Logo](screenshots/Meet_Up_Logo.jpg)
+<p align="center"> <img src="screenshots/Meet_Up_Logo.jpg" width="100" alt="MeetUp landing page" /> </p>
 
 ## 🚀 Features
 
