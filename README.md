@@ -64,4 +64,55 @@ cd meetup/backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+### Frontend Setup
+```
+cd meetup/frontend
+npm install
+npm run dev
+```
 
+## 🔐 Environment Variables
+
+Create a .env file in the backend directory:
+```
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY" 
+```
+
+## 📸 Output Screens
+<ul>
+    <li>Landing Page</li>
+    <li>Login & Registration</li>
+    <li>Dashboard</li>
+</ul>
+<i>(Screenshots available in the /screenshots folder)</i>
+
+## Future Enhancements
+<ul>
+    <li>✋ Hand Sign Language to Speech conversion for disabled users</li>
+    <li>🌍 Multilingual meeting support</li>
+    <li>🎥 Integration with video conferencing platforms</li>
+    <li>📱 Mobile application (Android & iOS)</li>
+    <li>📊 Advanced analytics and reports</li>
+    <li>🗣️ Real-time transcription and summarization</li>
+</ul>
+
+## 📌 Project Status
+
+<ul>
+    <li>✅ Core features implemented</li>
+    <li>🚧 Advanced AI and accessibility features planned</li>
+</ul>
+
+## 📄 License
+
+This project is developed for academic purposes.
+All rights reserved © 2026.
+
+## 🙌 Acknowledgements
+<ul>
+    <li>Faculty Guide & Department</li>
+    <li>Open-source libraries and frameworks</li>
+    <li>AI model providers</li>
+</ul>
+
+## ⭐ If you like this project, consider giving it a star!
