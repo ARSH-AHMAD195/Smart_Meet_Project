@@ -2,7 +2,7 @@
 
 MeetUp is an intelligent meeting management platform designed to automate meeting documentation and improve team productivity. It leverages AI and NLP to generate meeting summaries, extract action items, and suggest smart agendas for future meetings.
 
-![Landing Page](screenshots/landing_page.png)
+![MeetUp Logo](screenshots/Meet_Up_Logo.jpg)
 
 ## 🚀 Features
 
@@ -106,11 +106,6 @@ GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
     <li>🚧 Advanced AI and accessibility features planned</li>
 </ul>
 
-## 📄 License
-
-This project is developed for academic purposes.
-All rights reserved © 2026.
-
 ## 🙌 Acknowledgements
 <ul>
     <li>Faculty Guide & Department</li>
@@ -119,3 +114,8 @@ All rights reserved © 2026.
 </ul>
 
 ### ⭐ If you like this project, consider giving it a star!
+
+## 📄 License
+
+This project is developed for academic purposes. <br>
+All rights reserved © 2026.
