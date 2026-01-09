@@ -1,6 +1,6 @@
 # MeetUp – AI-Powered Meeting Management System
 
-MeetUp is an intelligent meeting management platform designed to automate meeting documentation and improve team productivity. It leverages AI and NLP to generate meeting summaries, extract action items, and suggest smart agendas for future meetings.
+<b>MeetUp</b> is an intelligent meeting management platform <b>designed and developed by Arsh Ahmad</b> to automate meeting documentation and improve team productivity. It leverages AI and NLP to generate meeting summaries, extract action items, and suggest smart agendas for future meetings.
 
 <p align="center"> <img src="screenshots/Meet_Up_Logo.jpg" width="100" alt="MeetUp landing page" /> </p>
 
@@ -118,4 +118,4 @@ GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 ## 📄 License
 
 This project is developed for academic purposes. <br>
-All rights reserved © 2026.
+All rights reserved © 2025.
